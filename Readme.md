@@ -37,8 +37,7 @@ To get started with the project, follow these steps:
 1. **Clone the Repository**:
    First, clone the repository using the following command:
    ```bash
-   origin  https://github.com/dhakeryash07/Yash-Raj-Dhaker-21BEC0757-.git (fetch)
-   origin  https://github.com/dhakeryash07/Yash-Raj-Dhaker-21BEC0757-.git (push)
+https://github.com/dhakeryash07/Yash-Raj-Dhaker-21BEC0757-.git
 
    ```
 
